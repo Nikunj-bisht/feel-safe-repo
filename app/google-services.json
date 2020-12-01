@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391702906542",
+    "firebase_url": "https://fell-safe.firebaseio.com",
+    "project_id": "fell-safe",
+    "storage_bucket": "fell-safe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391702906542:android:69d7efe68bf23857f78f3f",
+        "android_client_info": {
+          "package_name": "com.safero.fellsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391702906542-h8aefkkumabj25q20tjmf8gae4h7j8a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9270uIlgvG9kK7jfhggvEXLJbt6tv9E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391702906542-h8aefkkumabj25q20tjmf8gae4h7j8a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
